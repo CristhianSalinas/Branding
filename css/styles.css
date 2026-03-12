@@ -1,0 +1,25 @@
+body{
+font-family: Arial, sans-serif;
+}
+
+.hero{
+padding:100px 0;
+background:#5db026;
+color:white;
+}
+
+.section{
+padding:80px 0;
+}
+
+.color-box{
+height:100px;
+display:flex;
+align-items:center;
+justify-content:center;
+
+}
+
+.logo {
+  width: 250px;
+}
